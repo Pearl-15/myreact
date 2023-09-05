@@ -13,6 +13,7 @@ function App() {
         <p>Booking title</p>
         <p>Booking Form</p>
         <p>Booking button</p>
+        <p>Booking section : End</p>
     </div>
   );
 }
