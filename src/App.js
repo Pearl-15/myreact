@@ -12,6 +12,7 @@ function App() {
         <h2>Book section : Start</h2>
         <p>Booking title</p>
         <p>Booking Form</p>
+        <p>Booking button</p>
     </div>
   );
 }
