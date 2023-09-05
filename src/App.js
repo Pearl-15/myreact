@@ -8,6 +8,8 @@ function App() {
         <h2>Welcome section : Start </h2> 
         <p>Settle Down at the station</p>
         <p>Set up computer and accounts</p>
+
+        <h2>Book section : Start</h2>
     </div>
   );
 }
