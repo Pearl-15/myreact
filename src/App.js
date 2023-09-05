@@ -10,6 +10,7 @@ function App() {
         <p>Set up computer and accounts</p>
 
         <h2>Book section : Start</h2>
+        <p>Booking title</p>
     </div>
   );
 }
